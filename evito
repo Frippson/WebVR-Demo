@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mercedes-Benz eVito</title>
+    <meta name="description" content="Mercedes-Benz eVito - 360 interior">
+    <script src="aframe/aframe.js"></script>
+   
+  </head>
+  <body>
+    <div style="width: 400px;">
+      
+      <a-scene>
+        <a-sky src="R0010019.JPG" rotation="0 -80 0"></a-sky>
+      </a-scene>
+
+    </div>
+  </body>
+</html>
